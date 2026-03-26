@@ -1,7 +1,7 @@
 # a python code basic for me to remember :3
 
 # asks user for name
-print ("What's your name?")
+print ("What's your full name?")
 username = input("")
 
 # strips any whitespace from the inputted name
