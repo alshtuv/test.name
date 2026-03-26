@@ -2,6 +2,6 @@
 
 # asks user for name
 print ("What's your name?")
-name: str= input("")
-
-print("Hello,")
+username = input("")
+# prints a greeting message with the inputted name
+print("Hello, " + username + "! Welcome to the world!")
