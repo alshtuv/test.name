@@ -2,5 +2,6 @@
 
 # asks user for name
 print ("What's your name?")
-name= input(" ")
-print("Hello, ") + name
+name: str= input("")
+
+print("Hello,")
