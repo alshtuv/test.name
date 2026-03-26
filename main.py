@@ -1,7 +1,7 @@
 # a python code basic for me to remember :3
 
-# asks user for name
-print ("What's your full name?")
+# asks user for full name
+print ("What's your full name? (First and Last name only)")
 username = input("")
 
 # strips any whitespace from the inputted name
@@ -22,3 +22,4 @@ first, last = username.split(" ")
 # prints a greeting message with the inputted name
 print("Hello, " + first + "! Welcome to the world!")
 
+# how does ts even work idk
