@@ -1,2 +1,2 @@
 # test.name
-Testing basic skills in python.
+welcome message
